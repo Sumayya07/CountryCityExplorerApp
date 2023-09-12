@@ -7,8 +7,6 @@ Delve deep into the geographical nuances of the world with this aesthetically de
  <img src="https://github.com/Sumayya07/FinLockAssignment/assets/95580926/878922d1-a091-4918-a599-3f4e2043a054" width="27.3%">
 </p>
 
-<br/>
-<video src="https://github.com/Sumayya07/FinLockAssignment/assets/95580926/ed2f155a-a0ff-4d72-8e81-6f377cdbe78d" width="30%">
 
 ## 🚀 Table of Contents
 
@@ -81,4 +79,10 @@ We appreciate your interest in contributing! Please follow these steps:
 - 🔧 Make your necessary changes and commit: git commit -m 'Describe your changes here'.
 - 🚀 Push your branch: git push origin your-branch-name.
 - 📝 Open a pull request.
+
+## Working video of the Assignment
+
+<br/>
+<video src="https://github.com/Sumayya07/FinLockAssignment/assets/95580926/3901871b-82f2-422e-a17f-945e8bab8173" width="30%">
+
 
